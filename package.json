@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.9.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.3.1"
+  }
+}
